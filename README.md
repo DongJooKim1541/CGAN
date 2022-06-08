@@ -17,11 +17,23 @@ Pytorch
 
 ## Result
 
-<img src = "./loss.png" width="60%"> 
-Generator and Discriminator loss
+<img src = "./CGAN_fake_samples1.png" width="60%"> 
+1 Epoch
 
 <br/>
 <br/>
 
-<img src = "./Generated image.png" width="50%"> 
-Generated image
+<img src = "./CGAN_fake_samples50.png" width="60%"> 
+50 Epoch
+
+<br/>
+<br/>
+
+<img src = "./CGAN_fake_samples100.png" width="60%"> 
+100 Epoch
+
+<br/>
+<br/>
+
+<img src = "./CGAN_test_result.png" width="50%"> 
+Generated image by labels
