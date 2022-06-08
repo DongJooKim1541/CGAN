@@ -17,23 +17,23 @@ Pytorch
 
 ## Result
 
-<img src = "./CGAN_fake_samples1.png" width="60%"> 
+<img src = "./CGAN_fake_samples1.png" width="30%"> 
 1 Epoch
 
 <br/>
 <br/>
 
-<img src = "./CGAN_fake_samples50.png" width="60%"> 
+<img src = "./CGAN_fake_samples50.png" width="30%"> 
 50 Epoch
 
 <br/>
 <br/>
 
-<img src = "./CGAN_fake_samples100.png" width="60%"> 
+<img src = "./CGAN_fake_samples100.png" width="30%"> 
 100 Epoch
 
 <br/>
 <br/>
 
-<img src = "./CGAN_test_result.png" width="50%"> 
+<img src = "./CGAN_test_result.png" width="40%"> 
 Generated image by labels
